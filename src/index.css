@@ -28,3 +28,18 @@ code {
 .idCardImg{
   padding: 5px;
 }
+
+.driverCard{
+  justify-content: center;
+  height: 50px;
+  border-radius: 25px;
+  background-color: rgb(85, 85, 240);
+  margin: 10px;
+  padding: 10px;
+}
+
+.driverPic{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
